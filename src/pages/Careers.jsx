@@ -17,9 +17,19 @@ export const Careers = () => {
                             
                         </div>
                     </div>
-
                 </div>
             </div>
+            <section>
+                <div className="container">
+                    <div className="row">
+                        <div className="col">
+                            <div className="d-flex justify-content-center">
+                                <img src="./happy.jpg" alt="" className="border border-5" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
         </>
 
