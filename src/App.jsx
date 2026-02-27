@@ -1,14 +1,17 @@
-import { Header } from "./components/Header"
-import { Home } from "./pages/Home"
+/* import { Header } from "./components/Header"
+import { Home } from "./pages/Home" */
+import { Careers } from "./pages/Careers"
+
 
 
 export const App = () => {
   return (
     <>
 
-    <Header/>
-    <Home/>
+    {/* <Header/>
+    <Home/> */}
     
+    <Careers/>
     
     
     
