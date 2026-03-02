@@ -9,7 +9,7 @@ export const Home = () => {
 
             <div className="container">
                 <div className="row">
-                    <div className="col-6">
+                    <div className="col-6wd">
                         <div className="d-flex flex-column justify-content-center h-100 gap-5 ">
 
                             <div>
