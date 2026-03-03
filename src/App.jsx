@@ -1,6 +1,8 @@
 /* import { Header } from "./components/Header"
 import { Home } from "./pages/Home" */
-import { Careers } from "./pages/Careers"
+/* import { Careers } from "./pages/Careers" */
+
+import { About } from "./pages/About"
 
 
 
@@ -12,9 +14,9 @@ export const App = () => {
     {/* <Header/>
     <Home/> */}
     
-    <Careers/>
+    {/* <Careers/> */}
     
-    
+    <About/>
     
     </>
   )

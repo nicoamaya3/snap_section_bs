@@ -83,7 +83,7 @@ export const Careers = () => {
                                     <h1 className="fw-bold text-success">Ready to cook smarter?</h1>
                                     <p className="fs-5">Hit the button, pick a recipe, and get dinner on the table—fast.</p>
                                     <div>
-                                        <button className="btn btn-success  p-3 fw-bold fs-5 rounded-4">Browse recipes</button>
+                                        <button className="btn btn-success  p-2 fw-bold fs-5 rounded-4">Browse recipes</button>
                                     </div>
                                 </div>
                             </div>
