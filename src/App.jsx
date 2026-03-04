@@ -1,8 +1,8 @@
 /* import { Header } from "./components/Header"
-import { Home } from "./pages/Home" */
-/* import { Careers } from "./pages/Careers" */
-
-import { About } from "./pages/About"
+import { Home } from "./pages/Home"
+import { Careers } from "./pages/Careers"
+import { About } from "./pages/About" */
+import { Login } from "./pages/Login"
 
 
 
@@ -11,13 +11,15 @@ export const App = () => {
   return (
     <>
 
-    {/* <Header/>
-    <Home/> */}
-    
-    {/* <Careers/> */}
-    
-    <About/>
-    
+      {/* <Header />
+      <Home />
+      <Careers />
+      <About /> */}
+
+      <Login />
+
+
+
     </>
   )
 }
