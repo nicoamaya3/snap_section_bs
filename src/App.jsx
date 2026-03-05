@@ -2,7 +2,9 @@
 import { Home } from "./pages/Home"
 import { Careers } from "./pages/Careers"
 import { About } from "./pages/About" */
-import { Login } from "./pages/Login"
+/*  import { Login } from "./pages/Login"  */
+
+import { Register } from "./pages/Register"
 
 
 
@@ -16,8 +18,9 @@ export const App = () => {
       <Careers />
       <About /> */}
 
-      <Login />
+       {/* <Login />  */}
 
+      <Register/>
 
 
     </>
