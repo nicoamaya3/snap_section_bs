@@ -22,7 +22,7 @@ export const App = () => {
           <Route path="/Register" element={<Register />} />
         </Routes>
 
-        <Home />
+        
 
       </BrowserRouter>
 
