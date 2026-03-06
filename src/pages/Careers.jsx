@@ -1,12 +1,12 @@
 import "../stylesheets/Careers.css"
-import { Header } from "../components/Header"
+
 import { Targets } from "../components/Targets"
 
 export const Careers = () => {
     return (
 
         <>
-            <Header />
+      
 
             <div className="container">
                 <div className="row">

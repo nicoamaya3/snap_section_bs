@@ -2,8 +2,6 @@ import "../stylesheets/Home.css"
 
 export const Home = () => {
 
-
-
     return (
         <>
 

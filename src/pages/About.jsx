@@ -1,4 +1,4 @@
-import { Header } from "../components/Header"
+
 import "../stylesheets/About.css"
 
 export const About = () => {
@@ -6,7 +6,7 @@ export const About = () => {
 
     <>
 
-      <Header />
+  
 
       <div className="container m-5">
         <div className="row p-5 fine ">

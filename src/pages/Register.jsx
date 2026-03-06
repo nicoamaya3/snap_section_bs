@@ -1,11 +1,11 @@
-import { Header } from "../components/Header"
+
 
 
 export const Register = () => {
     return (
         <>
 
-            <Header />
+       
 
             <div classNameName="container">
                 <div classNameName="row">
